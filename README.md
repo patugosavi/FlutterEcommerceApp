@@ -26,10 +26,10 @@ Output -
   <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/outputimages/detail_page.png" alt="Detail Page" width="45%">
 </p>
 <p align="center">
-  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/output%20images/cart_page.png" alt="Cart Page" width="45%">
-  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/output%20images/favorite_page.png" alt="Favorite Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/outputimages/cart_page.png" alt="Cart Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/outputimages/favorite_page.png" alt="Favorite Page" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/output%20images/profile_page.png" alt="Profile Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/outputimages/profile_page.png" alt="Profile Page" width="45%">
 </p>
