@@ -22,14 +22,14 @@ Learn from - https://www.youtube.com/watch?v=UHUSqJDKe-Q&t=1194s
 Output - 
 
 <p align="center">
-  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/assets/outputimages/home_page.png" alt="Home Page" width="45%">
-  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/assets/outputimages/detail_page.png" alt="Detail Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/outputimages/home_page.png" alt="Home Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/outputimages/detail_page.png" alt="Detail Page" width="45%">
 </p>
 <p align="center">
-  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/assets/output%20images/cart_page.png" alt="Cart Page" width="45%">
-  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/assets/output%20images/favorite_page.png" alt="Favorite Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/output%20images/cart_page.png" alt="Cart Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/output%20images/favorite_page.png" alt="Favorite Page" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/assets/output%20images/profile_page.png" alt="Profile Page" width="45%">
+  <img src="https://github.com/patugosavi/FlutterEcommerceApp/blob/main/images/output%20images/profile_page.png" alt="Profile Page" width="45%">
 </p>
